@@ -10,7 +10,7 @@ There is a plan to introduce a new refund error code (60008) on 15th of October.
 
 ## 2022
 
-#### 14 November 2022 - Payment agreement deletion by users.
+#### 14 November 2022 - Payment agreement deletion by users
 
 Users can always delete payment agreement from the app from 5.22.0 app version.
 
